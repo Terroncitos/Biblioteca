@@ -9,8 +9,10 @@ El script recupera la información de los libros de una tabla de la base de dato
 ## Pagina web
 El script implementa la funcionalidad de pagina para mostrar un número limitado de libros por página. Los usuarios pueden navegar entre páginas utilizando los botones 'Anterior' y 'Siguiente'.
 
-## Funcionalidad de búsqueda
+
+## Funcionalidad de busqueda
 los usuarios pueden buscar libros por título utilizando la barra de búsqueda proporcionada en la página.
+
 
 ## Acciones de libros:
 Para cada entrada de libro, el script proporciona botones de acción para ver, modificar y eliminar el libro.
