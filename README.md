@@ -11,7 +11,7 @@ El script implementa la funcionalidad de pagina para mostrar un número limitado
 
 
 ## Funcionalidad de busqueda
-los usuarios pueden buscar libros por título utilizando la barra de búsqueda proporcionada en la página.
+Los usuarios pueden buscar libros por título utilizando la barra de búsqueda proporcionada en la página.
 
 
 ## Acciones de libros:
